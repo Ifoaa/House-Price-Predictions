@@ -11,10 +11,15 @@ It demonstrates data cleaning, exploratory data analysis (EDA), feature engineer
 To build a regression model that can accurately estimate house prices and help understand key factors influencing real estate values.
 
 🧰 Tools & Technologies
+
 Python 🐍
+
 Pandas & NumPy
+
 Scikit-learn
+
 Matplotlib & Seaborn
+
 Jupyter Notebook
 
 📊 Workflow
