@@ -23,14 +23,23 @@ Matplotlib & Seaborn
 Jupyter Notebook
 
 📊 Workflow
+
 Data Collection
+
 Data Cleaning & Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Feature Engineering
+
 Model Training (Linear Regression / Random Forest / etc.)
+
 Model Evaluation
 
 📈 Results
+
 Best Model: (e.g. Random Forest Regressor)
+
 Evaluation Metric: RMSE / MAE / R² Score
+
 Key Insight: Location and square footage were the strongest predictors of price.
